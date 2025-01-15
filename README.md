@@ -1,4 +1,4 @@
-Here’s a revised version of the README that focuses on showcasing **Docker as part of the tech stack** without unnecessary setup details. Additionally, it includes **screenshots for the first Tandish project only**:  
+![Screenshot 2025-01-04 205153](https://github.com/user-attachments/assets/077f585d-ce9a-4e84-b708-85fdd165646d)Here’s a revised version of the README that focuses on showcasing **Docker as part of the tech stack** without unnecessary setup details. Additionally, it includes **screenshots for the first Tandish project only**:  
 
 ---
 
@@ -36,12 +36,14 @@ Here’s a revised version of the README that focuses on showcasing **Docker as 
 
 ## 📸 **Screenshots**  
 
-### **Home Page**  
+### **Home Page with Interactive Map for Searching**  
 ![Screenshot 2025-01-04 205012](https://github.com/user-attachments/assets/1a0a329f-0724-4593-b2b8-70b72897401b)
 
 ### **Property Details**  
 ![Screenshot 2025-01-04 205303](https://github.com/user-attachments/assets/b9230132-a097-4ad2-8a6f-0c25337c7637)
-png)  
+
+### **Mortgage Calculator** 
+![Screenshot 2025-01-15 214931](https://github.com/user-attachments/assets/8c668dbf-6354-4017-806d-2a3c034ee482)
 
 ---
 
