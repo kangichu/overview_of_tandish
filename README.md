@@ -1,7 +1,3 @@
-![Screenshot 2025-01-04 205153](https://github.com/user-attachments/assets/077f585d-ce9a-4e84-b708-85fdd165646d)Here’s a revised version of the README that focuses on showcasing **Docker as part of the tech stack** without unnecessary setup details. Additionally, it includes **screenshots for the first Tandish project only**:  
-
----
-
 # **Tandish** *(Private Project – In Active Development)*  
 
 *Tandish is a comprehensive real estate platform designed for both property seekers and property managers. Built using Laravel, it simplifies property transactions while offering robust tools for property management.*  
