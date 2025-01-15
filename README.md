@@ -24,8 +24,9 @@
 
 - **Backend**: Laravel  
 - **Frontend**: JavaScript (AJAX, Fetch API)  
-- **Database**: MySQL  
-- **Mapping**: Mapbox  
+- **Database**: MySQL, PostgreSQL
+- **Charts and Tables**: Chart.js, DataTables
+- **Mapping**: Mapbox, Leaflet 
 - **Containerization**: Docker  
 
 ---
@@ -62,7 +63,7 @@
 ## 🛠️ **Tech Stack**  
 - **Backend**: Laravel  
 - **Frontend**: JavaScript (AJAX, Fetch API)  
-- **Database**: MySQL  
+- **Database**: MySQL, PostgreSQL
 - **Charts and Tables**: Chart.js, DataTables  
 - **Containerization**: Docker  
 
